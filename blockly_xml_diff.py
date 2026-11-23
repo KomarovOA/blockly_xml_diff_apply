@@ -23,7 +23,7 @@
     python blockly_xml_diff.py [файл1_исходный.xml] [файл2_изменённый.xml] [результат.xml]
 """
 
-import os
+import os 
 import sys
 import difflib
 import tempfile
